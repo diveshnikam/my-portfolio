@@ -68,7 +68,7 @@ function App() {
               </button>
 
               <a
-                href="https://drive.google.com/file/d/1IMMFFkpn6LehulTTfEzY7tvRn6otFLVz/view?usp=drive_link"
+                href="https://drive.google.com/file/d/17jTz6mcNR5D452_rJTja67ZxLk6iGqQ7/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline-secondary px-4 py-2 fw-semibold"
