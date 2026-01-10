@@ -272,10 +272,11 @@ function App() {
               <div className="skill-box">Git</div>
               <div className="skill-box">GitHub</div>
               <div className="skill-box">Chrome DevTools</div>
+              <div className="skill-box">JWT Authentication</div>
+              <div className="skill-box">Vercel</div>
             </div>
 
             <div className="col-lg-3 col-md-6 col-12 d-flex flex-column gap-3">
-              <div className="skill-box">Vercel</div>
               <div className="skill-box">Netlify</div>
               <div className="skill-box">Render</div>
             </div>
