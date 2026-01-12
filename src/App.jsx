@@ -68,7 +68,7 @@ function App() {
               </button>
 
               <a
-                href="https://drive.google.com/file/d/17rjKr4grfUQ38KapwjuiY7CqTUBXo8ba/view?usp=sharing"
+                href="https://drive.google.com/file/d/1ZhD0_ca3mKi5zYmL6UBnX_z7Gj4WL0Ud/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline-secondary px-4 py-2 fw-semibold"
@@ -279,6 +279,9 @@ function App() {
             <div className="col-lg-3 col-md-6 col-12 d-flex flex-column gap-3">
               <div className="skill-box">Netlify</div>
               <div className="skill-box">Render</div>
+              <div className="skill-box">React Router</div>
+               <div className="skill-box">Context API</div>
+                <div className="skill-box">REST APIs</div>
             </div>
           </div>
         </div>
