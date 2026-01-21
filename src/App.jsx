@@ -114,7 +114,7 @@ function App() {
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
-                <p className="text-muted small">MERN Stack + Bootstrap</p>
+                <p className="text-muted small">MERN Stack</p>
 
                 <a
                   href="https://github.com/diveshnikam/lead-bridge-crm-frontend.git"
@@ -159,7 +159,7 @@ function App() {
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
-                <p className="text-muted small">MERN Stack + Bootstrap</p>
+                <p className="text-muted small">MERN Stack</p>
 
                 <a
                   href="https://github.com/diveshnikam/Next-Step-e-Commerce-Frontend.git"
@@ -193,21 +193,23 @@ function App() {
             <div className="col-lg-4 col-md-6 col-12">
               <div className="project-card">
                 <img
-                  src="https://res.cloudinary.com/di71zb4sb/image/upload/v1765014967/Screenshot_2025-12-06_at_3.24.50_PM_ieanmw.png"
-                  alt="Meetup App"
+                  src="https://res.cloudinary.com/di71zb4sb/image/upload/v1768982056/Screenshot_2026-01-21_at_1.08.59_PM_rv1mtl.png"
+                  alt="TaskPilot"
                   className="project-img"
                 />
-                <h4 className="mt-5 mb-3">Meetup Finder App</h4>
+                <h4 className="mt-5 mb-3">TaskPilot</h4>
                 <p className="text-muted small">
-                  A meetup discovery app with event category filters, search,
-                  and detailed event pages.
+                  A task management web app with JWT authentication, email OTP
+                  verification for signup and forgot-password,
+                  Teams/Projects/Tasks/Tags CRUD, task status tracking,
+                  filtering, and Chart.js productivity dashboards.
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
-                <p className="text-muted small">MERN Stack + Bootstrap</p>
+                <p className="text-muted small">MERN Stack</p>
 
                 <a
-                  href="https://github.com/diveshnikam/Meetup-App---Frontend.git"
+                  href="https://github.com/diveshnikam/task-pilot-frontend.git"
                   className="project-link text-dark fw-bold d-flex align-items-center gap-2"
                   target="_blank"
                 >
@@ -216,7 +218,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/diveshnikam/Meetup-App---Backend.git"
+                  href="https://github.com/diveshnikam/task-pilot-backend.git"
                   className="project-link text-dark fw-bold d-flex align-items-center gap-2 mt-2"
                   target="_blank"
                 >
@@ -225,7 +227,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://meetup-app-frontend-ebon.vercel.app/"
+                  href="https://task-pilot-frontend-alpha.vercel.app/app"
                   className="project-link text-dark fw-bold d-flex align-items-center gap-2 mt-2"
                   target="_blank"
                 >
