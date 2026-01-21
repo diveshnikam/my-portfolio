@@ -199,10 +199,9 @@ function App() {
                 />
                 <h4 className="mt-5 mb-3">TaskPilot</h4>
                 <p className="text-muted small">
-                  A task management web app with JWT authentication, email OTP
-                  verification for signup and forgot-password,
-                  Teams/Projects/Tasks/Tags CRUD, task status tracking,
-                  filtering, and Chart.js productivity dashboards.
+                  Task management platform with JWT authentication and OTP-based
+                  signup/forgot password.
+                
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
