@@ -205,14 +205,14 @@ function App() {
                 <p className="fw-semibold mb-1">Tech Stack:</p>
                 <p className="text-muted small">MERN Stack</p>
 
-                <ag
+                <a
                   href="https://github.com/diveshnikam/task-pilot-frontend.git"
                   className="project-link text-dark fw-bold d-flex align-items-center gap-2"
                   target="_blank"
                 >
                   <i className="bi bi-code-slash fs-5"></i>
                   Frontend Code
-                </ag>
+                </a>
 
                 <a
                   href="https://github.com/diveshnikam/task-pilot-backend.git"
