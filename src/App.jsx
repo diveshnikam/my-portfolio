@@ -199,21 +199,20 @@ function App() {
                 />
                 <h4 className="mt-5 mb-3">TaskPilot</h4>
                 <p className="text-muted small">
-                  Task management platform with teams, projects, and tasks, plus
-                  JWT authentication and OTP-based signup/forgot password.
+                  Task management platform with teams/projects/tasks and JWT + OTP-based signup/forgot password.
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
                 <p className="text-muted small">MERN Stack</p>
 
-                <a
+                <ag
                   href="https://github.com/diveshnikam/task-pilot-frontend.git"
                   className="project-link text-dark fw-bold d-flex align-items-center gap-2"
                   target="_blank"
                 >
                   <i className="bi bi-code-slash fs-5"></i>
                   Frontend Code
-                </a>
+                </ag>
 
                 <a
                   href="https://github.com/diveshnikam/task-pilot-backend.git"
