@@ -199,9 +199,8 @@ function App() {
                 />
                 <h4 className="mt-5 mb-3">TaskPilot</h4>
                 <p className="text-muted small">
-                  Task management platform with JWT authentication and OTP-based
-                  signup/forgot password.
-                
+                  Task management platform with teams, projects, and tasks, plus
+                  JWT authentication and OTP-based signup/forgot password.
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
