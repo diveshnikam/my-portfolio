@@ -68,7 +68,7 @@ function App() {
               </button>
 
               <a
-                href="https://drive.google.com/file/d/10n7ssiSvGRv3Imzt6EhSZhts-2rTuyOW/view?usp=sharing"
+                href="https://drive.google.com/file/d/17DiBnroHQw600sLcuLConKiAHHRi019e/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline-secondary px-4 py-2 fw-semibold"
@@ -79,6 +79,69 @@ function App() {
           </div>
 
           <div className="col-lg-5 d-none d-lg-block"></div>
+        </div>
+
+       
+        <div className="container mt-5">
+          <h2 className="fw-bold mb-2 display-5" style={{ marginTop: "8rem" }}>
+            Experience
+          </h2>
+
+          <h5 className="text-muted mt-4">
+            Professional experience building scalable MERN applications.
+          </h5>
+
+          <div
+            style={{
+              width: "150px",
+              height: "4px",
+              backgroundColor: "green",
+              marginBottom: "3rem",
+              marginTop: "1rem",
+            }}
+          ></div>
+
+          <div className="row">
+            <div className="col-lg-9 col-12">
+              <div className="border rounded-4 p-4 p-md-5 shadow-sm bg-white">
+                <h4 className="fw-bold mb-2">MERN Stack Developer</h4>
+
+                <p className="text-muted mb-1">
+                  Infosys Ltd.
+                </p>
+
+               
+                <p className="text-muted small mb-4">Jan 2024 – Present</p>
+
+                <ul className="text-muted mb-0 ps-3">
+                  <li className="mb-2">
+                    Built scalable full-stack web applications using React.js,
+                    Node.js, Express.js, and MongoDB.
+                  </li>
+                  <li className="mb-2">
+                    Developed secure REST APIs with JWT authentication and
+                    role-based access control (RBAC).
+                  </li>
+                  <li className="mb-2">
+                    Improved performance by ~30% by optimizing APIs, frontend
+                    load time, and database queries.
+                  </li>
+                  <li className="mb-2">
+                    Implemented CRUD workflows with filtering, sorting, and
+                    status tracking for business processes.
+                  </li>
+                  <li className="mb-2">
+                    Built dashboards and analytics using Chart.js for KPI
+                    tracking and reporting.
+                  </li>
+                  <li className="mb-0">
+                    Worked in Agile/Scrum; managed code with Git/GitHub;
+                    tested/debugged using Postman and Chrome DevTools.
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="container mt-5">
@@ -199,7 +262,8 @@ function App() {
                 />
                 <h4 className="mt-5 mb-3">TaskPilot</h4>
                 <p className="text-muted small">
-                  Task management platform with teams/projects/tasks and JWT + OTP-based signup/forgot password.
+                  Task management platform with teams/projects/tasks and JWT +
+                  OTP-based signup/forgot password.
                 </p>
 
                 <p className="fw-semibold mb-1">Tech Stack:</p>
@@ -272,15 +336,15 @@ function App() {
               <div className="skill-box">GitHub</div>
               <div className="skill-box">Chrome DevTools</div>
               <div className="skill-box">JWT Authentication</div>
-              <div className="skill-box">Vercel</div>
+              <div className="skill-box">TypeScript</div>
             </div>
 
             <div className="col-lg-3 col-md-6 col-12 d-flex flex-column gap-3">
-              <div className="skill-box">Netlify</div>
-              <div className="skill-box">Render</div>
               <div className="skill-box">React Router</div>
               <div className="skill-box">Context API</div>
               <div className="skill-box">REST APIs</div>
+              <div className="skill-box">Socket.io</div>
+              <div className="skill-box">Redux Toolkit</div>
             </div>
           </div>
         </div>
