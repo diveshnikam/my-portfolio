@@ -81,7 +81,6 @@ function App() {
           <div className="col-lg-5 d-none d-lg-block"></div>
         </div>
 
-       
         <div className="container mt-5">
           <h2 className="fw-bold mb-2 display-5" style={{ marginTop: "8rem" }}>
             Experience
@@ -93,11 +92,12 @@ function App() {
 
           <div
             style={{
-              width: "150px",
+              width: "120px",
               height: "4px",
               backgroundColor: "green",
-              marginBottom: "3rem",
+              marginBottom: "1.5rem",
               marginTop: "1rem",
+              marginLeft: "0",
             }}
           ></div>
 
@@ -106,11 +106,8 @@ function App() {
               <div className="border rounded-4 p-4 p-md-5 shadow-sm bg-white">
                 <h4 className="fw-bold mb-2">MERN Stack Developer</h4>
 
-                <p className="text-muted mb-1">
-                  Infosys Ltd.
-                </p>
+                <p className="text-muted mb-1">Infosys Ltd.</p>
 
-               
                 <p className="text-muted small mb-4">Jan 2024 – Present</p>
 
                 <ul className="text-muted mb-0 ps-3">
