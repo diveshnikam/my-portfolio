@@ -373,7 +373,7 @@ function App() {
                     <i className="bi bi-envelope-fill connect-icon"></i>
                     <h4 className="m-0">Email</h4>
                   </div>
-                  <p className="text-muted mb-0">divesh.nikam@gmail.com</p>
+                  <p className="text-muted mb-0">diveshn378@gmail.com</p>
                 </div>
               </a>
             </div>
@@ -423,7 +423,7 @@ function App() {
 
         <div className="mt-3 d-flex justify-content-center gap-4">
           <a
-            href="mailto:divesh.nikam@gmail.com"
+            href="mailto:diveshn378@gmail.com "
             className="text-dark"
             style={{ fontSize: "1.5rem" }}
           >
