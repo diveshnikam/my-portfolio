@@ -378,6 +378,28 @@ function App() {
               </a>
             </div>
 
+
+            
+            
+
+            <div className="col-md-6 col-12">
+              <a
+                href="https://www.linkedin.com/in/divesh-nikam-6728a527b"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="connect-box-link"
+              >
+                <div className="connect-box">
+                  <div className="d-flex align-items-center gap-3 mb-2">
+                    <i className="bi bi-linkedin connect-icon"></i>
+                    <h4 className="m-0">LinkedIn</h4>
+                  </div>
+                 
+                </div>
+              </a>
+            </div>
+
+
             <div className="col-md-6 col-12">
               <a
                 href="https://github.com/diveshnikam"
@@ -390,7 +412,7 @@ function App() {
                     <i className="bi bi-github connect-icon"></i>
                     <h4 className="m-0">GitHub</h4>
                   </div>
-                  <p className="text-muted mb-0">github.com/diveshnikam</p>
+                 
                 </div>
               </a>
             </div>
