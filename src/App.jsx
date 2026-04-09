@@ -68,7 +68,7 @@ function App() {
               </button>
 
               <a
-                href="https://drive.google.com/file/d/1RAUYZdP-tHlYlEf-J9kbn8qZZte4S98e/view?usp=sharing"
+                href="https://drive.google.com/file/d/1AyaiPh2Va5WSY4N6lJUdjLabvYYTQabf/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline-secondary px-4 py-2 fw-semibold"
@@ -108,7 +108,7 @@ function App() {
 
                 <p className="text-muted mb-1">Infosys Ltd.</p>
 
-                <p className="text-muted small mb-4">Jan 2024 – Present</p>
+                <p className="text-muted small mb-4">June 2023 – Present</p>
 
                 <ul className="text-muted mb-0 ps-3">
                   <li className="mb-2">
