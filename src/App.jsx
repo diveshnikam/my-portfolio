@@ -373,7 +373,7 @@ function App() {
                     <i className="bi bi-envelope-fill connect-icon"></i>
                     <h4 className="m-0">Email</h4>
                   </div>
-                  <p className="text-muted mb-0">diveshn378@gmail.com</p>
+                  <p className="text-muted mb-0">diveshnikam13@gmail.com</p>
                 </div>
               </a>
             </div>
